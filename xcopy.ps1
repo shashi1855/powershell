@@ -1,1 +1,1 @@
-﻿xcopy "\\domaincontroller\" "C:\" /v /s
+﻿xcopy "\\domaincontroller\S\" "C:\" /v /s
