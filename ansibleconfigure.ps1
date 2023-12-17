@@ -1,5 +1,3 @@
-# ﻿xcopy "\\domaincontroller.vtguru.com\S\Automation\powershell\*" "C:\Automation\powershell\" /v /s
-
 #!powershell
 #Requires -Version 3.0
 
